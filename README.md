@@ -79,3 +79,6 @@ Action: Consider alternative, less expensive treatments like physical therapy or
 Specific Steps:
 Pilot alternative treatment programs for conditions typically treated with surgery, comparing outcomes and costs to existing protocols.
 Gather data from these pilots to inform broader adoption of more cost-effective treatment strategies across the hospital.
+
+Dashboard Screenshot
+![dashboard](https://github.com/user-attachments/assets/7f525bb3-6c26-411b-9084-2ff4e95c53b0)
